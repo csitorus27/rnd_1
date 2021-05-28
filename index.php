@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Membuat CRUD Dengan PHP Dan MySQL - Menampilkan data dari database</title>
+	<title>Pelatihan Hari Pertama RND Diulang di Hari Ke-2</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.css">
 </head>
